@@ -1,28 +1,153 @@
-# Hi 👋, I'm Saju
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Fast%2C+Accessible+Web+Apps" alt="Typing SVG" /></p>
 
-Frontend Developer from Bangladesh
+<h1 align="center">Hi 👋 I'm Saju</h1>
+<p align="center"><b>Full Stack Web Developer</b> from Bangladesh 🇧🇩</p>
 
-## 📁 Projects
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdsajuahmed"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/mdsajuahmedbd"><img src="https://img.shields.io/badge/GitHub-Follow-111?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-**Techwave**  
-Tailwind responsive podcast  
-🔗 **Repo:** https://github.com/mdsajuahmedbd/tech-wave  
-🌐 **Live:** https://mdsajuahmedbd.github.io/tech-wave/
+---
 
-## 🛠️ Skills
+## 🚀 About Me
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,html,css,tailwind,mongodb,mysql,aws" />
+I build modern, scalable web applications with a focus on **performance**, **accessibility**, and **clean architecture**.
 
-## 🔧 Tools
+I enjoy transforming ideas into reliable products using JavaScript technologies across the full stack.
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,firebase,astro,express,bootstrap,cloudflare,netlify,ps,python" />
+---
 
-## 🌐 Connect
+## 🧠 Tech Stack
 
-<a href="https://linkedin.com/in/mdsajuahmed"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://x.com/md_sajuahmed"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://dev.to/mdsajuahmed"><img src="https://skillicons.dev/icons?i=devto" /></a>
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" /><br>HTML
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" /><br>CSS
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=sass" width="45" height="45" alt="Sass" /><br>Sass
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" /><br>Tailwind
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" /><br>Bootstrap
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript" /><br>JavaScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /><br>React
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" /><br>Next.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=astro" width="45" height="45" alt="Astro" /><br>Astro
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" /><br>Node.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" /><br>Express
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" /><br>MongoDB
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" /><br>Firebase
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jQuery" /><br>jQuery
+      </td>
+    </tr>
+  </table>
+</div>
 
-## ☕ Donate
+---
 
-<a href="https://www.buymeacoffee.com/mdsajuahmed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 48px!important;width:171px!important;" ></a>
+## 🧩 Tools & Technologies
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" /><br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" /><br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" /><br>Figma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="npm" /><br>npm
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" /><br>Vercel
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=netlify" width="45" height="45" alt="Netlify" /><br>Netlify
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="45" height="45" alt="Cloudflare" /><br>Cloudflare
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" /><br>AWS (Learning)
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=notion" width="45" height="45" alt="Notion" /><br>Notion
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ps" width="45" height="45" alt="Photoshop" /><br>Photoshop
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=svg" width="45" height="45" alt="SVG" /><br>SVG
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <a href="https://www.linkedin.com/in/mdsajuahmed" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" /><br>
+        LinkedIn
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://twitter.com/md_sajuahmed" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter" /><br>
+        Twitter
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://dev.to/mdsajuahmed" target="_blank">
+        <img src="https://skillicons.dev/icons?i=devto" width="45" height="45" alt="Dev.to" /><br>
+        Dev.to
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ☕ Support My Work
+
+<a href="https://www.buymeacoffee.com/mdsajuahmed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 48px;width:171px;"></a>
