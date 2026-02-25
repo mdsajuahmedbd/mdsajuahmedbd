@@ -20,6 +20,18 @@ I enjoy transforming ideas into reliable products using JavaScript technologies 
 
 ---
 
+## 📌 Featured Projects
+
+🔹 **TechWave**  
+Modern Podcast Website Design
+Tech: HTML, CSS
+Live Demo: https://mdsajuahmedbd.github.io/tech-wave/  
+Source Code: https://github.com/mdsajuahmedbd/tech-wave  
+
+👉 Explore more in my repositories
+
+---
+
 ## 🧠 Tech Stack
 
 <table>
