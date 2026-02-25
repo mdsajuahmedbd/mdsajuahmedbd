@@ -132,7 +132,7 @@ I enjoy transforming ideas into reliable products using JavaScript technologies 
       </a>
     </td>
     <td align="center" width="90">
-      <a href="https://twitter.com/md_sajuahmed" target="_blank">
+      <a href="https://twitter.com/md_sajuahmed" target="_blank" style="text-decoration: none; color: inherit;">
         <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter" /><br>
         Twitter
       </a>
