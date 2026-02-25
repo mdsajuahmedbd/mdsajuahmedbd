@@ -120,18 +120,32 @@ I enjoy transforming ideas into reliable products using JavaScript technologies 
 
 ---
 
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdsajuahmedbd&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <table>
   <tr>
     <td align="center" width="90">
-      <a href="https://www.linkedin.com/in/mdsajuahmed" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"></a><br>LinkedIn
+      <a href="https://www.linkedin.com/in/mdsajuahmed" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn">
+      </a><br>LinkedIn
     </td>
     <td align="center" width="90">
-      <a href="https://twitter.com/md_sajuahmed" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter"></a><br>Twitter
+      <a href="https://twitter.com/md_sajuahmed" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter">
+      </a><br>Twitter
     </td>
     <td align="center" width="90">
-      <a href="https://dev.to/mdsajuahmed" target="_blank"><img src="https://skillicons.dev/icons?i=devto" width="45" height="45" alt="Dev.to"></a><br>Dev.to
+      <a href="https://dev.to/mdsajuahmed" target="_blank">
+        <img src="https://skillicons.dev/icons?i=devto" width="45" height="45" alt="Dev.to">
+      </a><br>Dev.to
     </td>
   </tr>
 </table>
@@ -140,4 +154,6 @@ I enjoy transforming ideas into reliable products using JavaScript technologies 
 
 ## ☕ Support My Work
 
-<a href="https://www.buymeacoffee.com/mdsajuahmed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:48px;width:171px;"></a>
+<a href="https://www.buymeacoffee.com/mdsajuahmed" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:48px;width:171px;">
+</a>
