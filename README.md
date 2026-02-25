@@ -127,21 +127,18 @@ I enjoy transforming ideas into reliable products using JavaScript technologies 
   <tr>
     <td align="center" width="90">
       <a href="https://www.linkedin.com/in/mdsajuahmed" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" /><br>
+        <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" /></a><br>
         LinkedIn
-      </a>
     </td>
     <td align="center" width="90">
       <a href="https://twitter.com/md_sajuahmed" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter" /><br>
+        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter" /></a><br>
         Twitter
-      </a>
     </td>
     <td align="center" width="90">
       <a href="https://dev.to/mdsajuahmed" target="_blank">
-        <img src="https://skillicons.dev/icons?i=devto" width="45" height="45" alt="Dev.to" /><br>
+        <img src="https://skillicons.dev/icons?i=devto" width="45" height="45" alt="Dev.to" /></a><br>
         Dev.to
-      </a>
     </td>
   </tr>
 </table>
