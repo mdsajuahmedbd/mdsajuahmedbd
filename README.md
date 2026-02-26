@@ -19,6 +19,7 @@ architecture**.
 
 I enjoy transforming ideas into reliable products using JavaScript technologies across the full stack.
 
+
 ---
 
 ## 📌 Featured Projects
