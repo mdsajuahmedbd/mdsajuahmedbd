@@ -152,7 +152,7 @@ Source Code: https://github.com/md-saju-ahmed/tech-wave
       </a><br>LinkedIn
     </td>
     <td align="center" width="90">
-      <a href="https://twitter.com/md_sajuahmed" target="_blank">
+      <a href="https://twitter.com/themdsajuahmed" target="_blank">
         <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter">
       </a><br>Twitter
     </td>
