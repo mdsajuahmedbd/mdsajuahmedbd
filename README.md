@@ -27,8 +27,8 @@ I enjoy transforming ideas into reliable products using JavaScript technologies 
 🔹 **TechWave**  
 Modern Podcast Website Design  
 Tech: HTML, CSS  
-Live Demo: https://mdsajuahmedbd.github.io/tech-wave/  
-Source Code: https://github.com/mdsajuahmedbd/tech-wave  
+Live Demo: https://md-saju-ahmed.github.io/tech-wave/  
+Source Code: https://github.com/md-saju-ahmed/tech-wave  
 
 👉 Explore more in my repositories
 
@@ -137,7 +137,7 @@ Source Code: https://github.com/mdsajuahmedbd/tech-wave
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdsajuahmedbd&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=md-saju-ahmed&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
